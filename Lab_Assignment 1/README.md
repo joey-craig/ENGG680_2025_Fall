@@ -1,3 +1,12 @@
-This is a sample README.md file. Please edit according to the instructions.
+Joey Craig 30113689
 
-Thanks :D
+Rachel Peszneker
+
+Eric Fagan
+
+Kristyne Hawkshaw
+
+
+
+This assignment is about ....
+
